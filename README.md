@@ -10,7 +10,7 @@ GAGANPREET KAUR
 
 ## Assignment :
 
-{ The project name is Assignment_01 and this program will provide show files and programming in python language..}
+{ The project name is Assignment_01 and this program will show files and programming in python language..}
 
 # First git status output:
 
@@ -73,5 +73,5 @@ Track all the changes and make many copies of a project and solve various issues
 
 ## Describe something that sets you apart from others
 
-I am progressive, orgainzed and responsible individual.
+I am progressive, organzied and responsible individual.
 I like to do programming.
