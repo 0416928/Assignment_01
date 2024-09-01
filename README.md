@@ -73,5 +73,5 @@ Track all the changes and make many copies of a project and solve various issues
 
 ## Describe something that sets you apart from others
 
-I am progressive, organzied and responsible individual.
+I am progressive, organized and responsible individual.
 I like to do programming.
