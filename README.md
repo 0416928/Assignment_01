@@ -67,4 +67,11 @@ Track all the changes and make many copies of a project and solve various issues
 
 - `git merge`: It is used to take the changes from another branch to the main branch.
 
-- `git checkout`:It is used to switch back to the main branch or files.
+- `git checkout`:It is used to switch back to the main branch or files
+
+# My unique touch
+
+## Describe something that sets you apart from others
+
+I am progressive, orgainzed and responsible individual.
+I like to do programming.
